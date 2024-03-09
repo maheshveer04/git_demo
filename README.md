@@ -1,4 +1,4 @@
 # git_demo
 This is my first git repository.
 <br>
-Author - Mahesh Veer
+Author - Mahesh Veer (mahi)
